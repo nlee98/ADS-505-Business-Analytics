@@ -24,7 +24,7 @@ The purpose of this project is to predict how customers would rate their flight 
 ## Getting Started
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook](link)
+* [Notebook](https://github.com/nlee98/ADS-505-Business-Analytics/blob/main/ADS_505_Final_Project.ipynb)
 * [Presentation](link)
 
 ### Authors
