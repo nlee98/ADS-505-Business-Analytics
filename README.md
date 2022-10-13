@@ -30,11 +30,11 @@ The purpose of this project is to predict how customers would rate their flight 
     * Neural network
 
 ## Getting Started
-1. Clone this repository (For help see this [tutorial] (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+1. Clone this repository (For help see this [tutorial](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 2. Raw data is kept in the GitHub repository and Kaggle.
-    * [Train data] (https://github.com/nlee98/ADS-505-Business-Analytics/blob/main/airline_satisfaction_train.csv)
-    * [Test data] (https://github.com/nlee98/ADS-505-Business-Analytics/blob/main/airline_satisfaction_test.csv)
-3. Data preprocessing, exploratory data analysis, and data mining models are in the [GitHub respository] (https://github.com/nlee98/ADS-505-Business-Analytics/blob/main/ADS_505_Final_Project.ipynb).
+    * [Train data](https://github.com/nlee98/ADS-505-Business-Analytics/blob/main/airline_satisfaction_train.csv)
+    * [Test data](https://github.com/nlee98/ADS-505-Business-Analytics/blob/main/airline_satisfaction_test.csv)
+3. Data preprocessing, exploratory data analysis, and data mining models are in the [GitHub respository](https://github.com/nlee98/ADS-505-Business-Analytics/blob/main/ADS_505_Final_Project.ipynb).
 
 ## Featured Notebook
 * [Notebook](https://github.com/nlee98/ADS-505-Business-Analytics/blob/main/ADS_505_Final_Project.ipynb)
